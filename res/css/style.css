@@ -1,16 +1,29 @@
 #body{
 	background-color: pink;
-	font-family: 'Big Shoulders Display', cursive;
+    font-family: 'Big Shoulders Display', cursive;
 }
+
 h1 {
     color: darkblue;
 }
 
 ol {
     background-color: beige;
+	text-align: right;
 }
-img{
-	width: 100px;
-	height: 100px;
-	
+<<<<<<< HEAD
+=======
+
+
+div strong {
+    text-decoration: underline;
 }
+
+header img {
+   width: auto;
+}
+
+section table {
+    text-align: right;
+}
+>>>>>>> 8163e51ded69b3ecdb488fdf2b187f9adafbe2e5
